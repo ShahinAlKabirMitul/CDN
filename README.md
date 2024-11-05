@@ -30,7 +30,7 @@
 <ol>
   <li><strong>Clone the repository</strong>:
     <pre><code>git clone https://github.com/ShahinAlKabirMitul/CDN.git
-cd yourrepository</code></pre>
+cd CDN</code></pre>
   </li>
   <li><strong>Database Configuration</strong>:
     <p>Create a PostgreSQL database.</p>
