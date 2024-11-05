@@ -4,7 +4,7 @@ A RESTful API built in C# using .NET Core with PostgreSQL as the database, desig
 #Features
 User Management via RESTful endpoints: GET, POST, PUT, and DELETE.
 Built using Entity Framework Core with PostgreSQL for database management.
-Implements the Unit of Work pattern to handle transactions efficiently.
+<b>
 Technologies Used
 .NET Core 8 for the framework
 PostgreSQL as the relational database
